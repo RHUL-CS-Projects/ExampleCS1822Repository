@@ -1,7 +1,7 @@
 
 public class Restaurant {
-    String name;
-    String cuisine;
+    private String name;
+    private String cuisine;
 
     public class Restaurant(String name, String cuisine) {
         this.name = name;
